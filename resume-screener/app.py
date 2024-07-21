@@ -30,7 +30,7 @@ page_bg_img = """
 background-color: #e5e5f7;
 opacity: 0.8;
 background-size:cover;
-background-image: url("https://pngtree.com/freebackground/cv-asymmetry-white-abstract-simple_1346375.html");
+background-image: url("img-url-uplod-here");
 }
 </style>"""
 st.markdown(page_bg_img,unsafe_allow_html=True)
