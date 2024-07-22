@@ -34,3 +34,5 @@ Get API Key from  https://aistudio.google.com/app/apikey
 ![8](https://github.com/user-attachments/assets/5018a63b-f349-4955-a996-2b358d044f99)
 
 https://github.com/user-attachments/assets/bf259fd7-6782-4bd7-842f-e77817d062a0
+
+PPT - [Resume Screening Apps.pptx](https://github.com/user-attachments/files/16335245/Resume.Screening.Apps.pptx)
